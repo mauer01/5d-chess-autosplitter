@@ -5,14 +5,11 @@ An autosplitter for [5D Chess With Multiverse Time Travel](https://store.steampo
 ## Features
 
 - Auto-start and auto-split on key events
-- Detects match start, checkmates, and match end
+- Detects match start, game end and won, and if activated leaving without losing.
 
 ## Settings
 
-currently you still need to go into the settings to setup if you wanna play puzzles or variants. just activate the one that you are playing and leave the other unchecked.
-In Variant Mode you can additionally activate reset when leaving which resets the timer
-if you prematurely leave a game. Which makes it easier to grind for the single Variants.
+you can additionally activate "reset when leaving" if you prematurely leave a game.
+It will reset the timer
 
-- Puzzle Mode
-- Variant Mode
-  - Reset when leaving
+- Reset when leaving
